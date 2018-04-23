@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="VB_MapControl_CustomProjections.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:VB_MapControl_CustomProjections">
+
+</Application>
